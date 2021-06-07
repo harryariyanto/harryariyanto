@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harryariyanto
-- 👀 I’m interested mianly in .NET stacks
+- 👀 I’m interested mainly in .NET stacks
 
 <!---
 harryariyanto/harryariyanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
